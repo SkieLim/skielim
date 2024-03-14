@@ -1,6 +1,15 @@
 ## Working, not forever
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkieLim&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <p aling="left">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkieLim&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+
+  <p>
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3wgpbf9ijp6h6nsxkwlsmu87f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  </p>
+
+</div>
 
 
 <div style="display: inline_block"><br>
