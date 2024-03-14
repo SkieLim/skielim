@@ -37,12 +37,12 @@
 <!--   <a href = "mailto:skinemoculo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/skie-lim-8b3526264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-/div>
+</div>
   
 <div>
   
   <center>
-    <img width="320" height="445" src="https://github-readme-stats.vercel.app/api?username=SkieLim&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)">
+    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=3wgpbf9ijp6h6nsxkwlsmu87f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
   <center>
   
 </div>
