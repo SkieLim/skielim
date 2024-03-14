@@ -41,9 +41,9 @@
   
 <div>
   
-  <center>
+  <p aling="center">
     <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=3wgpbf9ijp6h6nsxkwlsmu87f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
-  <center>
+  </p>
   
 </div>
 
