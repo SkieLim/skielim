@@ -1,43 +1,74 @@
-## Working, not forever
+<h2 align="left">Working, Not Forever</h2>
 
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkieLim&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Skie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Skie-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Skie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Skie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Skie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Skie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Skie-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="Skie-C" height="35" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
-  <!--<img align="center" alt="Skie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Rei-Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/nQQhfbogSLoAAAAi/rei-ayanami.gif">
-
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://www.youtube.com/@skielim" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/eyesofabyss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 	<a href="https://www.twitch.tv/skielim" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<!--   <a href = "mailto:skinemoculo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
-  <a href="https://www.linkedin.com/in/skie-lim-8b3526264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
-</div>
-  
-<div>
-  
-  <p aling="center">
-    <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=3wgpbf9ijp6h6nsxkwlsmu87f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
-  </p>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgargavioli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edgargavioli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<h2 align="center">Primary Technologies</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="center">Secundary Technologies</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/eyesofabyss/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/skie-lim/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/itsnotaskull" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://imgur.com/US48tJ7"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/3wgpbf9ijp6h6nsxkwlsmu87f">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3wgpbf9ijp6h6nsxkwlsmu87f&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
