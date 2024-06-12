@@ -61,7 +61,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/US48tJ7](https://imgur.com/gallery/rei-chikita-US48tJ7"/>
+<img align="right" height="150" src="https://imgur.com/gallery/rei-chikita-US48tJ7"/>
 
 ###
 
