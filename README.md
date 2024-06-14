@@ -61,7 +61,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/US48tJ7.gif" autoplay="true"  />
+<img align="right" height="150" src="https://i.imgur.com/US48tJ7.gif"/>
 
 ###
 
