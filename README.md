@@ -3,7 +3,7 @@
 ###
 
  <div align="center">
-   <img height="100px" src="images/sonic-is-hack.png">
+   <img height="1000px" src="images/sonic-is-hack.png">
  </div>
 
 ###
